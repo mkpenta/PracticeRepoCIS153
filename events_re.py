@@ -2,7 +2,7 @@ import re
 
 def menu():
     print("""
-        Enter a number
+        Enter a number from the menu
         1. search for date
         2. enter new event
         3. exit""")
